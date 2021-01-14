@@ -38,7 +38,7 @@ class Jira():
 			''')
 
 		self.last_comment = self.cursor.fetchall() 
-		return self.last_comment  
+		 
 		if len(self.last_comment) > 0:
 			return True
 		return  False
