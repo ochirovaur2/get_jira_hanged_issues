@@ -1,5 +1,6 @@
 # <h3 align="center">Monitoring jira tickets in coodinating status</h3>
 
+There are cases when Jira automation does not work, in these cases it is necessary to monitor tasks so that the work process is not disrupted.
 
 ## Quick start
 - install python 3.8 
